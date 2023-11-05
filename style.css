@@ -129,7 +129,7 @@ div.person-five {
 
 @media screen and (min-width: 700px) {
     body {
-        /* background-color: var(--bgClr); */
+        background-color: var(--bgClr);
     }
     .wrapper {
         width: 1440px;
